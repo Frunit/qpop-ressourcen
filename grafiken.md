@@ -53,7 +53,7 @@ QPOP.EXE_0x144600.png | QPOP.EXE | Katastrophe: Erdbeben: Baum | 1 Bild; 128x128
 QPOP.EXE_0x146600.png | QPOP.EXE | Katastrophe: Erdbeben: Bäume | 3 Bilder; 32x45; BAUMBEBE
 QPOP.EXE_0x147400.png | QPOP.EXE | Katastrophe: Flut: Wasser steigt am Baum | 9 Bilder; 152x95; BAUMGRO
 QPOP.EXE_0x155a00.png | QPOP.EXE | Katastrophe: Flut: Wasser steigt am Baum | 9 Bilder; 96x60; BAUWAS
-QPOP.EXE_0x15d000_...png | QPOP.EXE | Katastrophe: Erdbeben: Spalte | 12 Bilder; 149x148; BEBEN[_123]
+QPOP.EXE_0x15d000_...png | QPOP.EXE | Katastrophe: Erdbeben: Spalte | 12 Bilder; 149x148; BEBEN\[\_123\]
 QPOP.EXE_0x196400.png | QPOP.EXE | Abspann: Amorph in Kleidung | 6 Bilder; 64x64; ENDAMOE
 QPOP.EXE_0x198f00.png | QPOP.EXE | Abspann: Buckcherry in Kleidung (2 verschiedene) | 6 Bilder; 64x64; ENDFRU
 QPOP.EXE_0x19b800.png | QPOP.EXE | Abspann: Pesci mit Hut (2 verschiedene) | 8 Bilder; 64x64; ENDHAI
@@ -63,7 +63,7 @@ QPOP.EXE_0x1ad200.png | QPOP.EXE | Abspann: Texte/Bilder aus dem Monitor | 15 Bi
 QPOP.EXE_0x1b8700.png | QPOP.EXE | Katastrophe: Flut: Floß | 2 Bilder; 62x39; FLOSS
 QPOP.EXE_0x1b9500.png | QPOP.EXE | Abspann: Purplus in Rakete | 4 Bilder; 235x119; FLUGMOBI
 QPOP.EXE_0x1c2500.png | QPOP.EXE | Katastrophe: Vulkan: Feuergras verschwindet | 4 Bilder; 30x19; GRAS
-QPOP.EXE_0x1c2e00_...png | QPOP.EXE | Katastrophe: Seuche: Pesciodyphus wird Krank groß | 18 Bilder; 124x117; HAI[12]
+QPOP.EXE_0x1c2e00_...png | QPOP.EXE | Katastrophe: Seuche: Pesciodyphus wird Krank groß | 18 Bilder; 124x117; HAI\[12\]
 QPOP.EXE_0x1db400.png | QPOP.EXE | Katastrophe: Seuche: Pesciodyphus wird Krank mittelgroß | 16 Bilder; 64x64; HAI3
 QPOP.EXE_0x1e5400.png | QPOP.EXE | Abspann: Polizeirakete | 1 Bild; 250x150; HUNTER
 QPOP.EXE_0x1e8a00.png | QPOP.EXE | Katastrophe: Vulkan: Explosion | 9 Bilder; 50x50; KNALL
@@ -87,7 +87,7 @@ QPOP.EXE_0x225100.png | QPOP.EXE | Katastrophe: Seuche: Seuche infiziert | 3 Bil
 QPOP.EXE_0x225f00.png | QPOP.EXE | Katastrophe: Mutation: Meteorit wechselt die Farbe | 4 Bilder; 120x120; SPUTNIK
 QPOP.EXE_0x22f800.png | QPOP.EXE | Abspann: Steinstatuen der Spezies | 6 Bilder; 70x70; STATUEN
 QPOP.EXE_0x236c00.png | QPOP.EXE | Katastrophe: Menschen: Menschen laufen | 4 Bilder; 64x64; TYP
-QPOP.EXE_0x238700_...png | QPOP.EXE | Katastrophe: Vulkan: Vulkan entsteht, bricht aus, raucht | 18 Bilder; 150x120; VULKAN[_12]
+QPOP.EXE_0x238700_...png | QPOP.EXE | Katastrophe: Vulkan: Vulkan entsteht, bricht aus, raucht | 18 Bilder; 150x120; VULKAN\[\_12\]
 QPOP.EXE_0x257000.png | QPOP.EXE | Katastrophe: Vulkan: Buckcherry fällt | 18 Bilder; 64x64; VULKFRU
 QPOP.EXE_0x2ab700.png | QPOP.EXE | Intro: Sternenhintergrund | 1 Bild; 600x420
 QPOP.EXE_0x2c9500.png | QPOP.EXE | Programmicon | Falsche Höhenangabe; “Icon 1”
@@ -145,7 +145,7 @@ SPECIES.3.png | SPECIES.3 | Pesciodyphus in Überlebensphase | maskiert mit SPEC
 SPECIES.4.png | SPECIES.4 | Isnobug in Überlebensphase | maskiert mit SPECIES.0
 SPECIES.5.png | SPECIES.5 | Amorph in Überlebensphase | maskiert mit SPECIES.0
 SPECIES.6.png | SPECIES.6 | Buckcherry in Überlebensphase | maskiert mit SPECIES.0
-STAND.DAT.png | STAND.DAT | ??? | Maskiert mit Maske aus QPOP.EXE
+STAND.DAT.png | STAND.DAT | Bewertungsphase und Icons für Dialogfenster | Maskiert mit Maske aus QPOP.EXE
 
 
 Ein paar Grafiken aus `QPOP.EXE` haben bisher Fehler nach dem Extrahieren. Die folgenden Grafiken fehlen daher in der Sammlung.

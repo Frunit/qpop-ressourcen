@@ -1,20 +1,20 @@
 Bild	Quelle	Verwendung	Technische Bemerkung
-BACKHELL.DAT.png	BACKHELL.DAT	Grauer Hintergrund	
-ELEKTRO.DAT.png	ELEKTRO.DAT	Elektropflanze mit Hintergrund	
-GENETIK.DAT.png	GENETIK.DAT	Monstren und Mutationen	
-HINTEND.DAT.png	HINTEND.DAT	Abspann Hintergrund (Niederlage)	
-HINTEND1.DAT.png	HINTEND1.DAT	Abspann Hintergrund (Sieg)	
-INIT.DAT.png	INIT.DAT	Spielerauswahl (Startbildschirm)	
-KAMPF.DAT.png	KAMPF.DAT	Fressen und gefressen werden	
-KASTRO1.DAT.png	KASTRO1.DAT	Katastrophenhintergrund: Meteor, Mutation	
-KASTRO2A.DAT.png	KASTRO2A.DAT	Katastrophenhintergrund: Vulkan	
-KASTRO3.DAT.png	KASTRO3.DAT	Katastrophenhintergrund: Dürre, Kälte, Erdbeben	
-KASTRO4.DAT.png	KASTRO4.DAT	Katastrophenhintergrund: Seuche, Menschen	
-KASTRO5.DAT.png	KASTRO5.DAT	Katastrophenhintergrund: Flut	
-LEBEN.DAT.png	LEBEN.DAT	Der Krieg der Arten	
+BACKHELL.DAT.png	BACKHELL.DAT	Grauer Hintergrund
+ELEKTRO.DAT.png	ELEKTRO.DAT	Elektropflanze mit Hintergrund
+GENETIK.DAT.png	GENETIK.DAT	Monstren und Mutationen
+HINTEND.DAT.png	HINTEND.DAT	Abspann Hintergrund (Niederlage)
+HINTEND1.DAT.png	HINTEND1.DAT	Abspann Hintergrund (Sieg)
+INIT.DAT.png	INIT.DAT	Spielerauswahl (Startbildschirm)
+KAMPF.DAT.png	KAMPF.DAT	Fressen und gefressen werden
+KASTRO1.DAT.png	KASTRO1.DAT	Katastrophenhintergrund: Meteor, Mutation
+KASTRO2A.DAT.png	KASTRO2A.DAT	Katastrophenhintergrund: Vulkan
+KASTRO3.DAT.png	KASTRO3.DAT	Katastrophenhintergrund: Dürre, Kälte, Erdbeben
+KASTRO4.DAT.png	KASTRO4.DAT	Katastrophenhintergrund: Seuche, Menschen
+KASTRO5.DAT.png	KASTRO5.DAT	Katastrophenhintergrund: Flut
+LEBEN.DAT.png	LEBEN.DAT	Der Krieg der Arten
 MEER.DAT.png	MEER.DAT	Übersichtskartenteile	Masken angewendet und etwas neu arrangiert
 POPHIN.DAT.png	POPHIN.DAT	Intro: Planetenhintergrund mit Transparenz	Transparenz hinzugefügt
-POPHIN1.DAT.png	POPHIN1.DAT	Intro: Planetenhintergrund ohne Transparenz	
+POPHIN1.DAT.png	POPHIN1.DAT	Intro: Planetenhintergrund ohne Transparenz
 PREDATOR.0.png	PREDATOR.0	Masken für Fleischfresser	auf PREDATOR.? angewendet
 PREDATOR.1.png	PREDATOR.1	Dino in Überlebensphase	maskiert mit PREDATOR.0
 PREDATOR.2.png	PREDATOR.2	Pilz in Überlebensphase	maskiert mit PREDATOR.0
@@ -128,4 +128,4 @@ SPECIES.3.png	SPECIES.3	Pesciodyphus in Überlebensphase	maskiert mit SPECIES.0
 SPECIES.4.png	SPECIES.4	Isnobug in Überlebensphase	maskiert mit SPECIES.0
 SPECIES.5.png	SPECIES.5	Amorph in Überlebensphase	maskiert mit SPECIES.0
 SPECIES.6.png	SPECIES.6	Buckcherry in Überlebensphase	maskiert mit SPECIES.0
-STAND.DAT.png	STAND.DAT	???	Maskiert mit Maske aus QPOP.EXE
+STAND.DAT.png	STAND.DAT	Bewertungsphase und Icons für Dialogfenster	Maskiert mit Maske aus QPOP.EXE
