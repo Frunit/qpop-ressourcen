@@ -1,0 +1,784 @@
+                           
+				T D K 
+			       presents
+
+		     M A G N E T I C   P L A N E T
+					
+
+                            Ein KIWI Spiel
+                            ==============
+
+                            
+
+(c) TDK 1996. Das Spiel und diese Anleitung dürfen - in
+unveränderter Form - frei kopiert und unentgeltlich
+weitergegeben werden. Weitergabe auf kommerziellen Datenträgern
+(Shareware-CDs etc.) nur mit schriftlicher Genehmigung.
+
+
+Für ganz Eilige
+---------------
+
+Falls Sie keine Lust haben, diese Anleitung zu lesen, und
+einfach drauflos spielen wollen, beachten Sie bitte folgendes:
+
+1.	Beenden Sie stets alle anderen Anwendungen, bevor Sie das Spiel
+starten, und speichern Sie Ihre Arbeitsergebnisse vorher ab!
+
+2.	Seien Sie sorgfältig, wenn Sie Ihre erste Einheit auf der
+Karte plazieren. Die folgenden Einheiten können Sie nur
+unmittelbar (rechtwinklig, nicht diagonal) neben einer eigenen
+Einheit aufstellen, die bereits auf der Karte ist. Meiden Sie
+Inseln und verwinkelte Küstenregionen!
+
+3.	Plazieren Sie zu Anfang möglichst alle Einheiten auf Energie-
+formen derselben Sorte.
+
+4.	Stellen Sie zu Beginn die Anpassung Ihres Roboters an die
+Energieform, die in Ihrem Verbreitungsgebiet am häufigsten vorkommt,
+auf mindestens 50%.
+
+5.	Sammeln Sie so viel Energie wie möglich, mindestens soviel, 
+daß die Energieanzeige rechts halb gefüllt ist. Sonst verrosten einige Ihrer
+Roboter wegen Energiemangel. Sie können die Energieeinheiten einsammeln, 
+indem Sie auf Ihr Wesen klicken oder die Leertaste drücken.
+
+6.	Wenn Sie in einer ausweglosen Situation sind (z.B. "eingezäunt" 
+durch Felsen und Hindernisse) können Sie den "Selbstzerstörungsmechanismus" 
+auslösen. Klicken Sie dazu mit der rechten Maustaste auf Ihren Roboter 
+oder drücken Sie Escape.
+
+
+
+Inhalt
+------
+	Die Landung...
+	Das Spiel im Überblick
+	Spielstart
+	Die Startaufstellung
+	Die Einstellung der Anfangseigenschaften
+	Die Energiesammelphase
+	Die Ausbreitungsphase
+	Katastrophen
+	Die Bewertungsphase
+	Die Entwicklungsphase
+	Spielende
+	Wenn es nicht klappt...
+	Das Magnetic Planet-Team
+
+
+Die Landung...
+-------------------
+
+"D8 FA 0A BC!" brüllte XP-3 in die Datenleitung. "06 BD FA! FA!!!"
+
+Doch es war schon zu spät. Krachend schlug der vollständig robotgesteuerte
+Raumtransporter auf die Oberfläche des fremdartigen Planeten, die fast
+ausschließlich aus Ferritstaub und anderen magnetischen Materialien zu 
+bestehen schien. Kein Wunder, daß die Steuerungselektronik durch die starken 
+Magneteffekte beeinträchtigt worden war.
+
+Mühevoll kletterte XP-3 aus den Trümmern des Schiffes. Er richtete seine
+optischen und akustischen Sensoren auf die fremdartige Umgebung. Die Ladung
+des Schiffes, hauptsächlich Elektrobaukästen für Kinder, lag über den 
+ganzen Kontinent verstreut. Seltsame Gebilde schienen auf dem magnetischen 
+Untergrund zu wachsen und zu gedeihen wie Pflanzen. Probehalber pflückte 
+XP-3 ein glühbirnenartig geformtes Objekt und schob es in seine Analysator-
+klappe. Ein warmes, pulsierendes Glühen erfüllte ihn: Energie! Die Objekte 
+enthielten verwertbare elektrische Energie!
+
+XP-3 überlegte. Energie gab es auf diesem Planeten offenbar in Hülle und
+Fülle. Allerdings würde er sein Analysatormodul etwas umbauen müssen, um
+die neuartige Energiequelle sinnvoll nutzen zu können. Überhaupt sollte er
+seine Programmierung und Konstruktionsweise der neuen Umgebung anpassen.
+Und vielleicht könnte er ja aus den herumliegenden Baukästen weitere Roboter
+bauen - nach seinem Ebenbild!
+
+"09 BD FC 01 02!" sagte DL-L4, der sich inzwischen ebenfalls aus den Trümmern
+befreit hatte. Seine Kontrollämpchen blinkten hämisch.
+
+"08 77 3D!" entgegnete XP-3 wütend. Er würde es dem eingebildeten Blechkasten
+schon zeigen, wer sich besser an diese neue Umgebung anpassen konnte!
+
+
+
+Das Spiel im Überblick
+-----------------------
+
+In Magnetic Planet ist es ihre Aufgabe, eines von sechs Robotermodellen
+zur dominierenden Art des Planeten zu entwickeln. Dies geschieht, indem
+Sie versuchen, ausreichend Energie zu sammeln und aus den herumliegenden 
+Elektrobaukästen möglichst viele "Nachkommen" zu basteln. Je erfolgreicher
+Sie dies tun, um so besser können Sie Ihre Roboterart an die sich ständig
+ändernden Umweltbedingungen des magnetischen Planeten anpassen.
+
+Zu Beginn plazieren Sie einige Exemplare auf der globalen Übersichtskarte, 
+die den Hauptkontinent des magnetischen Planeten zeigt. In den verschiedenen
+Regionen kommen sechs unterschiedliche Energieformen vor, die den Robotern
+als Energiequelle dienen. 
+
+Wie gut sich Ihre Roboterart in einem bestimmten Gebiet entwickeln kann,
+hängt entscheidend davon ab, wie gut sie an die dort vorkommende
+Energieformen angepaßt ist. Dies wird mit den Eigenschaftswerten Ihres
+Modells bestimmt, die Sie zu Beginn einstellen und später verbessern können. 
+Neben der Anpassung an die sechs Energieformen gibt es weitere Eigenschaften
+wie "Scanner-Reichweite", "Neuronale Matrix" und "Duplizierung", die
+auf unterschiedliche Art nützlich sind. Im Laufe des Spiels
+erhält jede Art Entwicklungspunkte, die sie einsetzen kann, um
+diese Eigenschaften zu verbessern. Wer am Ende des Spiels
+insgesamt die höchsten Eigenschaftswerte hat, d.h. die meisten
+Entwicklungspunkte gesammelt hat, gewinnt das Spiel.
+
+Jede Spielrunde gliedert sich in die Phasen "Energiesammeln",
+"Ausbreitung", "Katastrophen", "Bewertung" und "Entwicklung". In
+der Energiesammelphase steuern Sie einen einzelnen Roboter, sozusagen
+als repräsentativen Vertreter seiner Art, durch eine außerirdische 
+Landschaft auf der Suche nach Energie und Elektrobaukästen, wobei er sich
+vor "Robodogs", "Magnetodranten" und anderen Gefahren hüten muß. Je mehr 
+Energie Sie während dieser Phase sammeln und je mehr kleine Roboter Sie
+aus den Elektrobaukästen bauen, desto mehr neue Einheiten können Sie an-
+schließend in der Ausbreitungsphase auf dem Spielfeld verteilen. Dabei wird
+es immer wieder zu Konflikten mit den anderen Roboterarten kommen, die Ihnen
+den Lebensraum streitig machen. Solche Konflikte gewinnt in der
+Regel das Robotermodell, das an das jeweilige Gelände besser angepaßt
+ist.
+
+Nachdem jede Roboterart Ihre neuen Einheiten plaziert hat, können
+Katastrophen auftreten, die manchmal ganze Gebiete entvölkern
+und meistens das Klima - und damit die Verbreitung der
+verschiedenen Energieformen - nachhaltig beeinflussen. Die
+Palette reicht von Meteoriteneinschlägen bis zu Magnetbeben und Vulkan-
+ausbrüchen.
+
+Nach der Katastrophe werden in der Bewertungsphase die Entwicklungs- 
+punkte verteilt, und zwar nach der Reihenfolge der Verbreitung der Arten: 
+Das Robotermodell mit den meisten Einheiten auf dem Planeten
+bekommt die meisten Entwicklungspunkte, usw. Die Entwicklungspunkte
+können in der Entwicklungsphase eingesetzt werden, um die
+Eigenschaften Ihres Modells, und damit seine Leistungsfähigkeit,
+zu verbessern. Dann wird diese Leistungssfähigkeit erneut in der
+Energiesammelphase getestet, usw. 
+
+Das Spiel endet, wenn Ihre Roboterart vollständig vom Planeten verdrängt
+wurde oder wenn Sie es geschafft haben, alle anderen Roboterarten zu
+verdrängen. Sie können natürlich jederzeit vorher das Spiel beenden - 
+Sieger ist dann, wer bis dahin insgesamt die meisten Entwicklungspunkte
+gesammelt hat. 
+
+
+Spielstart
+----------
+
+Nach der Intro-Animation können Sie zunächst den Schwierigkeitsgrad
+des Spiels von "leicht" bis "hammerhart" wählen. Für Einsteiger, die
+jedoch keine völligen Computerspiel-Neulinge sind, ist "So la la" als 
+Schwierigkeitsgrad zu empfehlen.
+
+Am oberen Spielrand befinden sich einige Buttons (Schaltknöpfe),
+die während des ganzen Spiels verfügbar sind: Die Exitbox in der
+linken Ecke dient dazu, das Spiel jederzeit zu beenden. Über
+zwei Buttons in der rechten Ecke können Musik und Soundeffekte
+ein- oder ausgeschaltet werden, sofern entsprechende Hardware
+(Soundkarte) vorhanden ist und die passenden Windows-Treiber
+installiert sind (näheres dazu im Windows Benutzerhandbuch und
+in der Dokumentation Ihres Soundkarten-Herstellers). 
+
+
+Die Startaufstellung
+--------------------
+
+Zu Beginn werden 10 Einheiten von jeder Roboterart auf der
+strategischen Übersichtskarte plaziert. Die Karte zeigt den
+Hauptkontinent des magnetischen Planeten mit seinen Landmassen,
+Gebirgen und Energieformen im Überblick. Es gibt sechs verschiedenen
+Energieformen:
+
+-	Schrauben (wachsen in kühlen, feuchten Regionen)
+-	Kristalle (mögen trockene, kalte Gegenden)
+-	Widerstände (wachsen in gemäßigten Zonen)
+-	Stecker (wachsen auf trockenem Boden in warmem Klima)
+-	Isolierkraut (wächst in feuchten, warmen Gebieten) 
+-	Birnen (bevorzugen warme Regionen mit mittlerer Feuchtigkeit)
+
+Da der Kontinent sich auf der nördlichen Halbkugel des Planeten
+befindet, ist es im Norden (am oberen Rand der Karte) kühler als
+im Süden, weshalb dort bevorzugt Kristalle und Schrauben
+vorkommen. In den Niederungen entlang der Küsten und am Rand von
+Binnenseen (blaue Felder) ist es besonders feucht; im
+Landesinneren, rund um die Gebirge, eher trocken.
+
+Der aktuelle Status des globalen Klimas kann am rechten Rand des
+Bildschirms anhand des Meßbechers (Feuchtigkeit) und
+Thermometers (Durchschnittstemperatur) abgelesen werden. Diese
+Werte ändern sich im Laufe des Spiels und beeinflussen die
+Verbreitung der verschiedenen Energieformen. Außerdem ist im
+oberen Bereich die jeweils am Zug befindliche Roboterart und die
+aktuelle Spielrunde sichtbar. Darunter wird die aktuelle Anzahl 
+der sechs Roboterarten relativ zueinander angezeigt. Die verkleinerten 
+Abbildungen der jeweiligen Art geben an, wieviele neue Einheiten auf 
+der Karte plaziert werden können. Zu Beginn erhält jede Art 10 Einheiten.
+
+Sie können Ihren ersten Roboter durch einfaches Anklicken der Karte plazieren
+(Meer- und Gebirgsfelder sowie Küstenfelder können nicht besetzt werden). 
+Dabei ist besondere Aufmerksamkeit geboten: Wenn die erste Einheit gesetzt
+ist, können Sie weitere Einheiten nur auf solche Felder plazieren, die an 
+von der eigenen Art besetzte Felder direkt (nicht diagonal) angrenzen. 
+Dies gilt auch für alle nachfolgenden Spielrunden. Das Plazieren der 
+ersten Einheit bestimmt also die Region, in der sich die eigene Art zu 
+Beginn des Spiels entwickelt. 
+
+Bei der Auswahl der Startregion sollte folgendes berücksichtigt
+werden:
+
+-	Da der Meeresspiegel schwankt, ist es gefährlich, alle
+Einheiten in Küstenregionen zu plazieren. Sie könnten leicht Opfer 
+von Überflutungen werden.
+
+-	Achten Sie auf möglichst viel Bewegungsfreiheit: Meeresarme,
+Seen und Gebirge können sonst die Ausbreitung der eigenen Art
+stark einschränken.
+
+-	Es ist sinnvoll, zu Beginn überwiegend Felder mit einer
+bestimmten Energieform zu besetzen und die eigene Art dann
+besonders an diese Energieform anzupassen (siehe nächster
+Abschnitt). Später kann die Spezialisierung auf weitere
+Energieformen ausgedehnt werden.
+
+-	Man sollte zu Beginn möglichst viel Abstand zu seinen Nachbarn
+halten und kräftezehrende Rangeleien um Terrain auf einen
+möglichst späten Zeitpunkt verschieben.
+
+Wenn die Startaufstellung erfolgt ist, wird durch Klicken auf
+den "Weiter"-Button die nächste Roboterart aktiviert.
+
+
+Die Einstellung der Anfangseigenschaften
+-----------------------------------------
+
+Nachdem alle Einheiten auf der Karte plaziert wurden,
+geht es daran, die Eigenschaften Ihrer Roboterart
+festzulegen. Dies geschieht auf dem Entwicklungsbildschirm. 
+Er zeigt die 13 Eigenschaftswerte Ihres Robotermodells:
+
+-	Die Anpassung an die sechs verschiedenen Energieformen ist
+besonders wichtig. Sie gibt an, wie gut Ihr Robotmodell die
+jeweilige Energie verwerten kann. Bei Auseinandersetzungen mit
+anderen Robotern ist oft entscheidend, wie gut beide Arten an
+die Energieform auf dem strittigen Feld angepaßt sind. Wer nicht
+ausreichend an die Energieform in seinem Verbreitungsgebiet angepaßt
+ist, riskiert ein rasches Verrosten seiner Art durch Energiemangel. Zu
+Beginn sollte man die Anpassung an die im eigenen
+Verbreitungsgebiet häufigste Energieform auf einen Wert von
+mindestens 30-40%, besser 50-60% setzen.
+
+-	Die Duplizierungsrate Ihrer Roboterart gibt an, wie gut Ihre
+Roboter in der Lage sind, aus den herumliegenden Elektrobaukästen neue
+Roboter zu bauen. Ein hoher Wert für Duplizierung erhöht die Zahl der
+neuen Einheiten, die in der Ausbreitungsphase aufgestellt werden können.
+
+-	Die Angriffs- und Verteidigungsstärke einer Roboterart sind vor
+allem beim Kampf um Terrain von Bedeutung. Roboter mit einer hohen 
+Angriffsstärke können sogar besonders gut an die dortigen Verhältnisse 
+angepaßte Konkurrenten verdrängen. Umgekehrt hilft die Verteidigungsstärke, 
+sein Terrain gegen Eindringlinge zu behaupten. Eine hohe Verteidigungs-
+stärke kann auch beim Kampf gegen die räuberischen Bewohner des magne-
+tischen Planeten hilfreich sein.
+
+-	Tarnung ist sehr nützlich, um in der Energiesammelphase den 
+gefährlichen Robodogs und Magnetodranten aus dem Weg zu gehen. Auf diese
+Weise kann Ihr Roboter mehr Energie sammeln und in Ruhe neue Roboter bauen.
+
+-	Die Geschwindigkeit Ihrer Roboterart ist ebenfalls bei der Flucht
+vor Raubrobotern hilfreich. Außerdem ermöglicht es Ihnen ein hoher
+Geschwindigkeitswert, sich auf der strategischen Karte besser zu
+bewegen und so z.B. flexibler auf Klimaveschiebungen zu
+reagieren.
+
+-	Die Scanner-Reichweite Ihres Robotermodells erleichtert die 
+Orientierung in der Energiesammelphase. Je besser der Wert ist, umso
+eher können Sie Feinden aus dem Weg gehen, Elektrobaukästen orten und 
+besonders ergiebige Energiequellen finden.
+
+-	Die Neuronale Matrix ist schließlich eine Art "Allround-Fähigkeit", 
+die den Grad der künstlichen Intelligenz Ihres Roboters angibt. Sie
+erhöht die Chancen bei Konflikten mit anderen Robotern (allerdings
+in geringerem Maße als die Eigenschaften "Angriffs-" und "Verteidigungs-
+stärke"), erleichtert das Ausweichen vor Raubrobotern und verbessert die 
+Orientierung in der Energiesammelphase. 
+
+Zu Beginn sind alle Eigenschaftswerte auf 10% voreingestellt (je
+höher der Prozentwert, umso besser die jeweilige Eigenschaft).
+Sie verfügen über eine Anzahl "Entwicklungspunkte", die
+durch den blauen Balken am oberen Rand gekennzeichnet sind.
+Diese Punkte können Sie durch Klicken auf den "+"-Button neben
+der jeweiligen Eigenschaft oder auf den rechten Bereich des
+Balkens (10er-Schritt) verteilen. Wenn Sie die Erhöhung einer
+Eigenschaft zurücknehmen wollen, können Sie dies durch Klicken
+auf den "-"-Button oder den linken Balkenbereich tun. Allerdings
+können Sie damit eine Eigenschaft nicht über den
+voreingestellten Anfangswert hinaus reduzieren.
+
+Verteilen Sie die Entwicklungspunkte nach eigenem Gutdünken.
+Denken Sie vor allem an eine ausreichende Anpassung an die in
+Ihrem Verbreitungsgebiet vorherrschende(n) Energieform(en)! Wenn
+Sie fertig sind, klicken Sie auf "Weiter". Da nicht verteilte
+Entwicklungspunkte am Ende einer Spielrunde verfallen, sollten Sie
+immer alle Punkte verteilen, bevor Sie Ihren Zug beenden.
+
+
+Die Energiesammelphase
+----------------------
+
+Nun wird es ernst (soo ernst auch wieder nicht): Sie gelangen
+zum ersten Mal in die entscheidende Energiesammelphase. Nun wird
+sich zeigen, ob Ihre Roboterart wirklich gut an ihr Verbreitungs-
+gebiet angepaßt ist.
+
+Der größte Teil des Bildschirms zeigt die unmittelbare Umgebung
+Ihres Roboters, der als repräsentativer Vertreter seiner Art
+auserwählt wurde, um die gesamte Modellreihe zu vertreten. In Ihrer 
+Umgebung können sich Hindernisse (Felsen, Kabelbäume, Säurepfützen etc.), 
+Energie, andere Roboter, Elektrobaukästen und Raubroboter (hundeartige
+"Robodogs" oder rote "Magnetodranten") befinden. Außerdem birgt die 
+Planetenoberfläche noch die eine oder andere, meist unerfreuliche 
+Überraschung. 
+
+Wie die Umgebung aussieht, in der sich Ihr Roboter befindet, hängt
+davon ab, an welchen Stellen Ihre Art auf der strategischen
+Karte vertreten ist. Wenn Sie beispielsweise viele Felder mit
+roten Kristallen besetzt haben, werden Sie diese Energieform sehr 
+häufig vorfinden. Wenn Sie hochliegendes Gelände in der Nähe von 
+Gebirgen besetzt haben, finden Sie entsprechend viele Felsen in Ihrer 
+Umgebung, usw. Auch die Verteilung von anderen Robotern, Raubrobotern
+und Energiebaukästen hängt von der Verbreitung Ihrer Art auf der
+Karte ab. Die Nachbarn an der Grenze Ihres Territoriums werden
+Sie besonders häufig antreffen. Je mehr Felder Sie auf der Karte
+besetzt haben, umso mehr Raubroboter stellen sich ein, denn
+diese spezialisieren sich darauf, der zahlenmäßig häufigsten Roboterart
+nachzustellen. Je dichter Ihre Roboter beieinander stehen, umso
+mehr Energiebaukästen werden sie finden, doch umso dürftiger ist
+auch das Energieangebot. Wenn Ihre Roboter also in kleinen
+Grüppchen quer über die Landkarte verstreut sind, sind die
+Chancen geringer, neue Roboter zu bauen; dafür werden Sie ein
+reichhaltigeres Energieangebot vorfinden. 
+
+Am rechten Spielfeldrand befinden sich einige wichtige Anzeigen.
+Oben sehen Sie den Scanner-Bildschirm Ihres Roboters, der Ihnen 
+Informationen über die weitere Umgebung vermittelt. Gelbe Kreise 
+darauf symbolisieren besonders reichhaltige Energiequellen, 
+Totenkopf-Symbole stehen für Raubroboter, blaue Kreise für Elektro-
+baukästen und grüne, grimmige Gesichter für andere Roboter. Ihr
+eigener Roboter ist durch ein rotes Kreuz in der Mitte markiert. 
+Je größer die Scanner-Reichweite Ihres Robotmodells ist,
+umso weiter reicht der Radius dieser Anzeige, umso besser
+können Sie sich also in Ihrer Umgebung orientieren.
+
+Unter dem Scanner-Bildschirm befindet sich der Zugindikator (roter
+Balken). Er gibt an, wieviel Züge Sie in der aktuellen Energiesammel-
+phase noch machen können, und wird bei jedem Bewegungs- oder Sammelvorgang
+ein Stück kürzer. Wenn er auf Null geschrumpft ist, ist Ihre
+Energiesammelphase beendet. Sie haben für die Entscheidung, was Sie
+als nächstes machen wollen, je nach vorher eingestelltem Schwierigkeits-
+grad jeweils ca. 1 - 2 Sekunden Zeit. Wenn Sie nichts tun,
+bevor diese Zeit abgelaufen ist, bleibt Ihr Roboter einfach
+untätig auf der Stelle stehen oder sammelt, wenn es dort, wo er
+steht, Energie gibt, diese ein. Sie stehen also unter einem gewissen
+Zeitdruck. Zu Beginn der Energiesammelphase beginnt die Zeit abzulaufen, 
+sobald Sie mit der Maus im Sichtfenster klicken oder eine Pfeiltaste 
+bzw. die Leertaste drücken.
+
+Tip: Wenn Sie innerhalb der Energiesammelphase eine Pause machen
+wollen, z.B. weil das Telefon klingelt, können Sie das Spiel per
+Mausklick auf den "Verkleinerungsknopf" rechts oben
+deaktivieren. Die Zeit wird dann "angehalten". Wenn Sie
+weiterspielen wollen, doppelklicken Sie einfach auf das
+verkleinerte Icon auf Ihrem Windows-Desktop.
+
+Ihren Roboter können Sie ganz einfach mit der Maus oder den
+Cursor-Pfeiltasten steuern. Klicken Sie mit der Maus irgendwo
+auf die Abbildung der näheren Umgebung, wird der Roboter
+versuchen, sich in diese Richtung zu bewegen (Sie können nur
+gerade, nicht diagonal, ziehen). Klicken Sie direkt auf den
+Roboter, bleibt es an Ort und Stelle stehen und versucht, Energie
+zu sammeln, sofern welche vorhanden ist. Ebenso bewegen die vier
+Cursortasten den Roboter in die entsprechende Richtung; die
+Leertaste bewirkt den Befehl "Stehenbleiben und möglichst
+Energie sammeln".
+
+Ihr Ziel in der Energiesammelphase ist es, möglichst viel zu
+Energie zu sammeln, möglichst viele kleine Roboter zu bauen und 
+dabei so selten wie möglich zerstört zu werden. "Selten zerstört" deshalb, 
+weil Ihre Energiesammelphase nicht automatisch beendet ist, wenn Sie
+von einem Raubroboter "gefressen" werden oder einer anderen Gefahr 
+zum Opfer fallen. Stattdessen erhalten Sie in der "Totenkopf"-Anzeige 
+am rechten Bildschirmrand einen roten Punkt. Je mehr Punkte Sie in
+der Totenkopf-Anzeige haben, umso mehr Ihrer Individuen auf der strate-
+gischen Karte werden zerstört - Sie sollten Gefahren also aus dem Weg
+gehen.
+
+Wenn Sie Energie finden und auf dem entsprechenden Feld einen
+Spielzug lang stehenbleiben (den Roboter direkt anklicken oder die
+Leertaste drücken), sammelt ihr Roboter eine Energieeinheit und erhält 
+eine bestimmte Energiemenge, die in der Anzeige am rechten Bildrand durch
+gelbe Punkte angezeigt wird. Wie hoch die gesammelte Energiemenge ist, 
+hängt davon ab, wie ihr Roboter an die jeweilige Energieform angepaßt ist.
+Es kann also sein, daß sie mehrere Energieeinheiten sammeln müssen, um einen
+gelben Punkt zu bekommen. Sie sollten versuchen, die Energieanzeige min-
+destens zur Hälfte zu füllen (mindestens 5 gelbe Punkte) - dies ist die 
+erforderliche Energiemenge, um alle Ihre Roboter ausreichend zu versorgen. 
+Sammeln Sie weniger, verrosten unter Umständen einige Ihrer Einheiten; 
+sammeln Sie mehr, erhöht sich die Zahl der neu hinzukommenden Roboter 
+(weil die kleinen Roboter mit mehr Energie aufgeladen werden und so 
+schneller wachsen können). Beachten Sie, daß Sie auf den meisten Energie-
+feldern mehr als eine Energieeinheit sammeln können!
+
+Tip: Wenn Sie das Glück haben, eine der TDK-Disketten auf dem magnetischen
+Planeten zu finden, sammeln Sie diese unbedingt ein! Sie werden dann
+für den Rest dieser Energiesammelphase "unbesiegbar".
+
+Wenn Sie in der Nähe einen Elektrobaukasten sehen, sollten Sie 
+versuchen, auf ein angrenzendes Feld zu ziehen. Dann baut Ihr Roboter
+aus den Bauteilen einen neuen, kleinen Roboter nach seinem Ebenbild. 
+Das wird in der Duplizierungs-Anzeige am rechten Bildrand durch einen
+blauen Punkt festgehalten. Je mehr kleine Roboter Sie bauen, umso
+mehr neue Einheiten können Sie in der nächsten Ausbreitungsphase
+auf der strategischen Karte plazieren.
+
+Wenn Sie andere Roboter in der Nähe sehen und auf ein
+angrenzendes Feld ziehen, können Sie diese aus Ihrem Gebiet
+vertreiben. Es findet ein Kampf statt, den Sie in jedem Fall
+gewinnen. Der Kampf hat keine direkten Auswirkungen auf die
+strategische Karte, doch die "Kampferfahrung" bringt Ihnen in
+der nächsten Ausbreitungsphase zusätzliche Stärke, wenn Sie sich
+mit Ihren Nachbarn auseinandersetzen müssen. Bedenken Sie aber,
+daß derartige Revierkämpfe Zeit kosten, die Sie für
+die Energiesuche oder das Duplizieren benötigen.
+
+Ihr größter Feind in der Energiesammelphase sind die
+Raubroboter. Versuchen Sie möglichst, ihnen aus dem Weg zu
+gehen, indem Sie rechtzeitig ausweichen (achten Sie auf Ihren
+Scanner!). Sobald ein Raubroboter einmal Ihre Fährte
+aufgenommen hat, ist er oft nur noch schwer abzuschütteln. Wenn
+Sie hohe Werte in den Eigenschaften "Tarnung" und
+"Geschwindigkeit" haben, besteht die Chance, daß der
+Raubroboter Sie aus den Augen verliert und Ihnen nicht mehr
+folgt. Die gesammelten Energie- und Duplizierungspunkte bleiben
+Ihnen auch dann erhalten, wenn Ihr Roboter "gefressen" wird
+(was durchaus mehrmals in einer Energiesammelphase geschehen kann).
+Wenn Ihr Roboter einen sehr hohen Verteidigungswert hat, 
+können Sie mit Glück vielleicht sogar als Sieger aus der
+Auseinandersetzung mit einem Raubroboter hervorgehen. Wenn Sie in
+der selben Energiesammelphase schon eine TDK-Diskette eingesammelt 
+haben, sind Sie unbesiegbar und gewinnen den Kampf auf jeden Fall.
+Sie brauchen dann - nur in dieser Spielrunde! - keine Angst mehr
+vor Raubrobotern zu haben.
+
+Tip: Wenn Ihnen ein Raubroboter dicht auf den Fersen ist,
+fügen Sie sich lieber in Ihr Schicksal und lassen Sie sich
+fressen. Sie vertrödeln sonst zu viel Zeit mit einer ohnehin
+sinnlosen Flucht. Gehen Sie Raubrobotern also möglichst
+frühzeitig aus dem Weg! Die Räuber können Ihren Roboter 
+übrigens nur wittern, solange sie sich im Sichtfenster befinden.
+Räuber außerhalb des Sichtfensters bilden also keine
+unmittelbare Gefahr und verfolgen Ihren Roboter nicht.
+
+Wenn Ihr Roboter gefressen oder auf andere Weise zerstört wird,
+setzen Sie die Energiesammelphase mit einem neuen Roboter an
+einer anderen Stelle fort. Sollten Sie in eine ausweglose 
+Situation geraten, z.B. weil alle Auswege durch Hindernisse versperrt 
+sind, können Sie auch die "Selbstzerstörung" auslösen, indem Sie mit der rechten 
+Maustaste auf Ihren Roboter klicken oder die Escape-Taste drücken. 
+Nach Bestätigen der Sicherheitsabfrage erhalten Sie einen Punkt in
+der Totenkopf-Anzeige und werden auf ein zufälliges Feld "teleportiert".
+
+Wenn Sie wollen, können Sie Ihre Energiesammelphase vorzeitig
+abbrechen, indem Sie auf den Weiter-Knopf drücken. Dies ist
+allerdings normalerweise nicht sinnvoll. Ganz Schlaue nutzen diesen
+Ausweg, zum sich kurz vor Ende der Energiesammelphase aus einer
+hoffnungslos von Raubrobotern umzingelten Situation zu retten.
+
+Sollte Ihr Robotermodell scheitern, z.B. weil Sie nicht genug
+Energie gefunden haben und alle Einheiten verrostet sind,
+nehmen Sie es nicht so tragisch. Immerhin hat sich Ihr Vorgänger-
+modell der Gattung "Mensch" auch nicht besonders lange durchsetzen
+können und ist nach einigen gescheiterten Versuchen, sich an
+die Energieformen "Radioaktivität" und "Harte Ultraviolette Strahlung"
+anzupassen, gegen Ende des 21. Jahrhunderts ausgestorben.
+
+
+
+Die Ausbreitungsphase
+-----------------------
+
+Nach dem Ende der Energiesammelphase gibt es vielleicht einige
+Einheiten Ihres Robotermodells weniger auf der Karte. Zum Ausgleich 
+haben Sie ja hoffentlich reichlich Nachwuchs gebastelt, der durch
+kleine, rote Robotersymbole am rechten Rand dargestellt wird und den 
+Sie jetzt verteilen können. Das Aufstellen funktioniert genauso wie 
+bei der Startaufstellung, mit zwei wichtigen Unterschieden: Sie können 
+nun nur noch dort Roboter plazieren, wo schon eigene Einheiten auf 
+benachbarten Feldern vorhanden sind. Und Sie können nun auch versuchen, 
+von anderen Robotern besetzte Felder zu erobern.
+
+Wenn Sie ein Feld anklicken, auf dem sich eine fremde Roboterart
+befindet, und das an von Ihnen besetzte Felder angrenzt, findet
+ein Kampf statt. Sie können den Verlauf des Kampfes nicht direkt
+beeinflussen. Als Resultat wird entweder die gegnerische Einheit
+aus dem Spiel genommen und Sie haben das Feld erobert, oder der
+Versuch ist gescheitert und Ihre angreifende Einheit ist
+verloren. Wie der Kampf ausgeht, hängt entscheidend davon ab,
+wie gut Ihre und die Art Ihres Gegners an die Energieform
+auf dem umkämpften Feld angepaßt sind. Hinzu kommen Ihre
+Angriffsstärke und die Verteidigungsstärke Ihres Gegners, sowie
+Modifikationen durch die jeweilige Neuronale Matrix und die in der
+letzten Energiesammelphase gesammelte Kampferfahrung. Auch Glück
+spielt natürlich eine gewisse, aber eher untergeordnete Rolle.
+Sie können durchaus dasselbe Feld mehrfach angreifen, riskieren
+aber dabei natürlich jedesmal erneut einen Ihrer Nachwuchs-Roboter.
+
+Neben dem Plazieren des Nachwuchses können Sie in der
+Ausbreitungsphase auch Einheiten bewegen. Wieviele
+Bewegungspunkte Sie haben, hängt von der Geschwindigkeit Ihres
+Modells ab und wird durch schwarze Schatten am rechten Rand
+markiert. Jedesmal, wenn Sie eine eigene Einheit auf der
+Karte anklicken, wird sie von der Karte genommen und in den
+Nachwuchs-Vorrat plaziert, während eines der Schattensymbole
+verschwindet. Sie können die Einheit dann an einer beliebigen
+anderen Stelle der Karte neben einer dort vorhandenen eigenen
+Einheit plazieren. Auf diese Weise sind regelrechte
+"Völkerwanderungen" möglich.
+
+Tip: Damit Sie besser erkennen können, welche Energieform auf
+einem von einer Einheit besetzten Feld vorkommt, können Sie es mit
+der rechten Maustaste anklicken. Der Roboter auf dem Feld
+verschwindet, solange Sie die rechte Maustaste gedrückt halten,
+und kehrt danach wieder zurück.
+
+Wenn Sie Ihren Zug beenden möchten, klicken Sie auf "Weiter".
+Sollten Sie noch nicht alle Nachwuchs- und Bewegungssymbole
+verbraucht haben, kommt eine entsprechende Sicherheitsabfrage.
+Sie sollten auf keinen Fall darauf verzichten, neue Einheiten
+auf der Karte zu plazieren, denn diese können nicht "gespart"
+werden und verfallen. Es kann jedoch passieren, daß Ihre
+Ausbreitungsmöglichkeiten durch Meer, Gebirge etc. blockiert
+sind.
+
+
+Katastrophen
+--------------
+
+Katastrophen treten in jeder Runde, am Ende der
+Ausbreitungsphase, auf und können die Ausbreitungschancen
+der verschiedenen Robotermodelle erheblich verändern. 
+Es gibt sieben verschiedene Katastrophen:
+
+Flutwelle
+---------
+Durch Veränderungen in der Umlaufbahn des magnetischen Planeten um sein
+Zentralgestirn erhöht sich der Einfall an Strahlungsenergie. Dadurch
+steigt die durchschnittliche Temperatur, die Polkappen schmelzen ab und
+der Meeresspiegel steigt. Das wäre ja an sich nicht so schlimm, denn die
+Roboter sind natürlich wasserfest. Leider bestehen die Ozeane des magne-
+tischen Planeten jedoch aus konzentrierter Salzsäure. Deshalb sprechen
+wir im weiteren Verlauf dieser Anleitung auch von "Säurespiegel" anstatt
+von "Meeresspiegel". Um den Auswirkungen der Flutwelle zu entgehen,
+sollten Sie Ihre Einheiten von Küstenregionen fernhalten.
+
+Hitzeperiode
+-------------
+Durch eine Verschiebung der Planetenachse wird der Kontinent
+näher an den Äquator gerückt. Dadurch steigt die mittlere
+Temperatur an, und es fällt weniger saurer Regen. 
+Als Konsequenz werden sich wärme- und trockenliebende Energieformen, 
+wie Widerstände und Stecker, ausbreiten, während andere Formen
+seltener werden.
+
+Kälteperiode
+-------------
+Auch hier sorgen Veränderungen in der Rotation des Planeten für
+eine Klimaveränderung, allerdings mit umgekehrten Vorzeichen wie
+bei der Hitzeperiode. Die Kälte begünstigt die "nördlichen" 
+Energieformen Schrauben und Kristalle.
+
+Magnetbeben
+-----------
+Durch eine Veränderung der magnetischen Feldlinien-Struktur des
+Planeten kommt es zu gewaltigen, abrupten Veränderungen der
+magnetischen Oberfläche. Wo vorher Säureseen lagen, erheben sich
+nun Magnetfelsen und umgekehrt. Natürlich bleibt von den Robotern,
+die zufällig gerade in der Nähe solcher Veränderungen stehen, nicht
+viel übrig. Außerdem kann es passieren, daß durch Magnetbeben einzelne
+Einheiten auf Inseln isoliert werden.
+
+Vulkanausbrüche
+---------------
+Auch auf einem magnetischen Planeten gibt es natürlich Vulkane, die
+geschmolzenes Eisen emporschleudern und für alle Roboter auf angren-
+zenden Feldern absolut zerstörend wirken. Es brechen bei dieser
+Katastrophe immer mehrere Vulkane aus, jedoch zum Glück nur auf Gebirgs-
+feldern, so daß man die Gefahr dieser Katastrophe durch geschicktes 
+Plazieren der eigenen Einheiten verringern kann.
+
+Meteoriteneinschlag
+-------------------
+Wenn ein gewaltiger Meteorit auf die Planetenoberfläche donnert, hat dies
+natürlich Konsequenzen - nicht nur für die armen Roboter, die sich zufällig
+gerade an der Einschlagstelle befanden. Durch die gewaltigen, aufgewirbelten
+Staubmassen sinkt die globale Temperatur, die Polkappen schwellen an und
+der Säurespiegel des Planeten sinkt. Dadurch ändert sich auch die Verbreitung
+der verschiedenen Energieformen.
+
+Virenangriff
+------------
+Nichts fürchten Roboter mehr als heimtückische Viren, die die intelligen-
+teste Hi-Tech-Maschine in einen untauglichen Blechhaufen verwandeln können.
+Ein Virenangriff betrifft immer ein bestimmtes Gebiet des Planeten. Alle
+Einheiten dort können mit etwas Glück den Angriff mit Hilfe der eigenen
+Antiviren-Software heil zu überstehen, oder sie verrosten.
+
+Neben der Katastrophe kann es auch zu geringfügigen, zufälligen
+Veränderungen des Säurespiegels, der globalen Temperatur und
+Niederschlagsmenge kommen. Entsprechend kann sich die
+Verbreitung der Energieformen in jeder Runde verschieben. 
+
+
+Die Bewertungsphase
+----------------------
+
+Am Ende der Ausbreitungsphase werden Entwicklungspunkte verteilt.
+Dabei erhält diejenige Spezies am meisten Entwicklungspunkte, die
+die meisten Einheiten auf der strategischen Karte hat.
+
+Tip: Da die verteilten Entwicklungspunkte von der Rangfolge der
+Robotermodelle und nicht linear von der Anzahl der Einheiten auf der
+Karte abhängen, kann eine einzelne Einheit mehr oder weniger
+über Sieg oder Niederlage entscheiden. Es lohnt sich deshalb
+manchmal, in der Ausbreitungsphase einen nur geringfügig
+stärkeren Gegner anzugreifen, um so am Ende mehr Einheiten auf
+dem Feld zu haben.
+
+Die Zahl der in dieser Runde verteilten Entwicklungspunkte wird zu
+den gesamten Eigenschaftswerten jedes Robotmodells addiert und ergibt
+so die Gesamtpunktzahl jeder Art. Auf dem Bewertungsbildschirm
+wird die Rangfolge der Arten anhand dieser Gesamtpunktzahl
+dargestellt. Unter jeder Säule sind die aktuelle Anzahl der
+Einheiten (neben einem verkleinerten Symbol der jeweiligen Art
+angezeigt), die in dieser Runde erlangten Entwicklungspunkte
+(neben einer standardisierten DNS-Doppelhelix als Relikt aus der
+Zeit, als Entwicklung noch auf biologischem Wege stattfand) und die
+Gesamtpunkte (neben einem Siegerkranz) angegeben. Der Roboter auf
+der höchsten Säule repräsentiert das momentan am höchsten
+entwickelte Modell. Wenn Sie das Spiel an dieser Stelle beenden, 
+ist dieses Robotmodell gleichzeitig Sieger des gesamten Spiels.
+
+Sie können in der Bewertungsphase auch den Spielstand abspeichern
+oder einen früheren Spielstand laden, indem Sie auf die ent-
+sprechenden Schaltknöpfe klicken.
+
+
+Die Entwicklungsphase
+-----------------------
+
+Nach der Bewertungsphase beginnt mit der Entwicklungsphase eine
+neue Spielrunde. Jetzt können Sie die Eigenschaften Ihres
+Robotmodells mit den eben erhaltenen Entwicklungspunkten verbessern,
+indem Sie die entsprechenden "+"-Knöpfe bzw. den rechten
+Balkenbereich anklicken. Um verteilte Entwicklungspunkte
+zurückzunehmen, klicken Sie auf den entsprechenden "-"-Knopf
+oder den linken Balkenbereich. Sie können jedoch die
+Eigenschaften nicht unter den ursprünglichen Wert reduzieren.
+Wenn Sie fertig sind, klicken Sie auf "Weiter". Dann geht es in die
+nächste Energiesammelphase, usw.
+
+
+Spielende
+----------
+
+Das Spiel endet, wenn
+- alle Roboterarten bis auf Ihre ausgeschieden sind - dann haben Sie
+  gewonnen. Herzlichen Glückwunsch!
+- Ihre Roboterart scheitert - dann haben Sie leider verloren.
+- Sie das Spiel von sich aus beenden - dann hat das Robotermodell
+  gewonnen, welches in der letzten Bewertungsphase auf der höchsten Säule
+  stand. 
+
+
+Wenn es nicht klappt...
+-----------------------
+
+Die weitaus meisten Schwierigkeiten mit Programmen unter Windows
+rühren daher, daß der Windows-Speicher zu knapp wird und das
+System sich nicht mehr stabil verhält. Deshalb hier einige
+grundsätzliche Empfehlungen:
+
+1.	Beenden Sie möglichst alle anderen Windows-Anwendungen, bevor
+Sie das Spiel starten. Vergessen Sie nicht, vorher ggf. Ihre
+Arbeiten abzuspeichern.
+
+2.	Falls "Magnetic Planet" sich nicht starten läßt oder die 
+Meldung "zu wenig Hauptspeicher" erscheint, beenden Sie zunächst 
+Windows und starten Sie es dann neu. Oft hilft ein solcher Neustart, 
+den Hauptspeicher von "Überresten" anderer Programme zu befreien.
+Beenden Sie auf jeden Fall Windows, wenn in einem Programm eine
+"Allgemeine Schutzverletzung" aufgetreten ist oder ein Programm
+"abstürzt". Danach ist Windows in aller Regel nicht mehr stabil,
+auch wenn kein unmittelbarer Fehler zu erkennen ist.
+
+3.	Sollte immer noch nicht genug Hauptspeicher vorhanden sein,
+sollten Sie vielleicht die Größe der Windows-Auslagerungsdatei
+verändern. Sehen Sie dazu in Ihrem Windows-Handbuch nach.
+
+
+Fehler und Abbruch direkt nach dem Start
+-------------------------------------------
+Sollte das Programm direkt nach dem Start eine Fehlermeldung
+verursachen, könnte dies damit zusammenhängen, daß Sie eine
+Soundkarte mit einem nicht WAVEMIX-kompatiblen Soundtreiber
+verwenden. WAVEMIX ist ein Hilfsprogramm (DLL) von Microsoft,
+das es ermöglicht, unter Windows mehrere Geräusche gleichzeitig
+abzuspielen. Leider ist WAVEMIX nicht zu allen auf dem Markt
+befindlichen Soundtreibern kompatibel. Wenn ein Fehler
+aufgetreten ist, beenden Sie zunächst Windows und starten Sie es
+neu. Öffnen Sie die Datei "Mplanet.ini" im Mplanet-Verzeichnis, z.B.
+mit Hilfe des "Windows Desktop Editors". Ändern Sie den Eintrag
+"Sound = 1" (die Zeile ohne Semikolon!) in "Sound = 0" und
+speichern Sie die Datei ab. Starten Sie dann das Spiel neu. Falls
+der Fehler nun nicht mehr auftritt, liegt es tatsächlich an
+einer Inkompatibilität zwischen Ihrem Soundtreiber und der
+WAVEMIX.DLL. Sie können dann leider keine Geräusche über
+Ihre Soundkarte abspielen. 
+
+
+Keine Musik zu hören
+----------------------
+Es kann sein, daß die Soundtreiber für Ihre Soundkarte nicht richtig 
+installiert sind oder daß der "MIDI-Mapper" (ein Windows-Hilfsprogramm, 
+das sich in der Systemsteuerung befindet) nicht richtig eingestellt ist.
+Näheres dazu entnehmen Sie bitte der Dokumentation Ihrer
+Soundkarte oder Ihrem Windows-Handbuch. Diese Prozedur ist
+leider ein wenig umständlich; dafür werden Sie, wenn Sie es
+einmal richtig eingestellt haben, auch mit anderen
+Windows-Spielen und Musikprogrammen keine Schwierigkeiten mehr
+haben.
+
+
+Wichtiger Hinweis
+-----------------
+Obwohl dieses Spiel sorgfältig entwickelt und getestet wurde, kann es 
+wie bei jeder Software auch beim Spielen von "Magnetic Planet"
+zu unvorhergesehenen Fehlern bis hin zu "Systemabstürzen" kommen. Beenden
+Sie deshalb alle anderen Anwendungen und speichern Sie Ihre Arbeitsergeb-
+nisse ab, bevor Sie das Spiel starten. TDK und KIWI haften nicht für
+Schäden, die aufgrund einer Nichtbeachtung dieses Hinweises entstehen.
+
+
+Das Magnetic Planet Team
+------------------------
+Spieldesign:			Karl L. von Wendt
+Grafik, Animationen:		Stefan Beyer
+Programm:			Lars Hammer
+				Karl L. von Wendt
+Musik:				Lars Hammer
+
+Eine Produktion der KIWI Kooperation für Interaktive Werbung und
+Information, Hamburg (http://www.kiwi.de).
