@@ -1,0 +1,41 @@
+Bild	Quelle	Verwendung	Technische Bemerkung
+BACK.DAT.png	BACK.DAT	Hintergrund	
+BACKGROU.DAT.png	BACKGROU.DAT	Felder in Überlebensphase. Ein paar Teile aus Q-Pop sind noch drin :)	
+BEWERT.DAT.png	BEWERT.DAT	Bewertungsphase (Säulen usw.)	maskiert
+ENTWICKL.DAT.png	ENTWICKL.DAT	Mutationsphase (Icons und Symbole)	maskiert
+INIT.DAT.png	INIT.DAT	Spielstart Schwierigkeitswahl	maskiert
+KATASTR.0.png	KATASTR.0	Katastrophe: Dürre	
+KATASTR.1.png	KATASTR.1	Katastrophe: Kälte	
+KATASTR.2.png	KATASTR.2	Katastrophe: Meteorit	
+KATASTR.3.png	KATASTR.3	Katastrophe: Seuche	
+KATASTR.4.png	KATASTR.4	Katastrophe: Vulkan	
+KATASTR.5.png	KATASTR.5	Katastrophe: Flut	
+KATASTR.6.png	KATASTR.6	Katastrophe: Erdbeben	
+KATASTR.7.png	KATASTR.7	???	
+KATASTR.8.png	KATASTR.8	???	
+LOVEWAR.DAT.png	LOVEWAR.DAT	Wolken (Kampf und Montage)	maskiert
+MEER.DAT.png	MEER.DAT	Übersichtskartenteile	Masken angewendet und etwas neu arrangiert
+feuchtigkeit.png	MPLANET.EXE	GUI: Feuchtigkeitsanzeiger	2 Bilder; 40x100; selbst zusammengestellt
+minimap.png	MPLANET.EXE	GUI: Minimapicons	4 Bilder; 8x8; selbst zusammengestellt
+MPLANET.EXE_0x29600.png	MPLANET.EXE	Intro: Explosion	7 Bilder; 50x40; BUM
+MPLANET.EXE_0x2a800.png	MPLANET.EXE	Intro: Glanzstreifen auf “Magnetic Planet”	2 Bilder; 24x38; FLASH
+MPLANET.EXE_0x2b200_1.png	MPLANET.EXE	Intro: eine Kiwi Produktion	4 Bilder; 217x16; KIWI; getrennt
+MPLANET.EXE_0x2b200_2.png	MPLANET.EXE	Intro: präsentiert	4 Bilder; 118x16; KIWI; getrennt
+MPLANET.EXE_0x2f200.png	MPLANET.EXE	Intro: Raumschiff	6 Bilder; 152x70; SCHIFF
+MPLANET.EXE_0x32200.png	MPLANET.EXE	Intro: TDK	6 Bilder; 184x40; SCHRIFT
+MPLANET.EXE_0x36a00.png	MPLANET.EXE	Intro: Hintergrund	1 Bild; 600x420; STARS
+MPLANET.EXE_0x38600.png	MPLANET.EXE	Intro: Glanzsternchen auf «Magnetic Planet»	4 Bilder; 20x20; STERN
+MPLANET.EXE_0x38d00.png	MPLANET.EXE	Intro: Magnetic Planet	5 Bilder; 570x38; TITELMP
+MPLANET.EXE_0x7e500.png	MPLANET.EXE	Programmicon	Falsche Höhenangabe; “Icon 1”
+plus_minus_buttons.png	MPLANET.EXE	GUI: Buttons plus/minus	4 Bilder; 16x16; selbst zusammengestellt
+pointer.png	MPLANET.EXE	Mauszeiger	1 Bild; 32x32; cursor file
+rotes_x.png	MPLANET.EXE	GUI: Rotes X	1 Bild; 11x12
+stand_icons.png	MPLANET.EXE	Icons für Standanzeige	2 Bilder; 16x16; selbst zusammengestellt
+thermometer.png	MPLANET.EXE	GUI: Thermometer	2 Bilder; 40x100; selbst zusammengestellt
+titelmenu.png	MPLANET.EXE	Titelmenübuttons	4 Bilder; 10x12; selbst zusammengestellt
+PREDATOR.1.png	PREDATOR.1	Robodog	maskiert mit PREDATOR.1M
+PREDATOR.2.png	PREDATOR.2	Magnetodrant	maskiert mit PREDATOR.2M
+RAND.DAT.png	RAND.DAT	GUI für Überlebensphase	Minimap maskiert
+SPECIES.1.png	SPECIES.1	Roboter	maskiert mit SPECIES.0
+STAND.DAT.png	STAND.DAT	Bewertungsphase (alle Roboter)	maskiert
+TOT.DAT.png	TOT.DAT	Zerstörte Roboter	maskiert

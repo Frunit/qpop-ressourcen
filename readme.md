@@ -9,7 +9,7 @@ Ich habe versucht, alle Ressourcen aus Q-POP zusammenzustellen. Das sind zu alle
 
 Der Quelltext scheint nicht mehr zu existieren. Sollte noch jemand den Quelltext (oder auch Teile davon) haben, würde ich mich sehr darüber freuen.
 
-Wenn du Details zu Q-POP, seinen Spielmechanismen oder den Dateien hast, melde dich gerne!
+Wenn du Details zu Q-POP, seinen Spielmechanismen oder den Dateien hast, melde dich gerne! Jegliche Mitarbeit ist gerne gesehen.
 
 Das Spiel, sowie seine Grafiken, Sounds und andere Ressourcen unterliegen dem Urheberrecht. Wer die Rechte besitzt, ist unklar. Bitte verwende die Dateien fair und definitiv nicht für kommerzielle Produkte.
 
@@ -21,3 +21,10 @@ Das Spiel, sowie seine Grafiken, Sounds und andere Ressourcen unterliegen dem Ur
   - [Höhenrelief](relief.md)
 
 
+Magnetic Planet
+---------------
+
+Das Spiel “Magnetic Planet” von 1996 ist sehr ähnlich zu Q-POP. Im Prinzip ist es das gleiche Spiel mit neuer Grafik, jedoch mit weniger Möglichkeiten und Animationen. Es geht nicht um die Evolution von Lebewesen, sondern um die Entwicklung von Robotern. Da es sich um praktisch das gleiche Spiel handelt, habe ich auch die Ressourcen aus Magnetic Planet extrahiert. Die Ergebnisse sind im Ordner `magnetic_planet`.
+
+- [Grafiken](magnetic_planet/grafiken.md)
+- [Sound](magnetic_planet/sound.md)
