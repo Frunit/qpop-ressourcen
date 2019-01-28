@@ -172,3 +172,7 @@ Bild | Quelle | Verwendung | Technische Bemerkung | Änderung ggü. deutscher Ve
 ..._SCHIPOP_0x1c6d00.png | QPOP.EXE_en | Intro: “Welcome to Q-POP”-Schild | 4 Bilder; 392x218; SCHIPOP | Schriftzug “Danger...” fehlt
 ..._STATION1_0x1f0e00.png | QPOP.EXE_en | Intro: Raumstation | 1 Bild; 300x225; STATION | Völlig andere Raumstation
 ..._UFO_0x223b00.png | QPOP.EXE_en | Intro: Ufo mit “P.M. Präsentiert” | 1 Bild; 350x120; UFO | Nicht in deutscher Version vorhanden
+en_GENETIK.DAT.png | GENETIK.DAT | Monsters and Mutants |  |
+en_INIT.DAT.png | INIT.DAT | Spielerauswahl (Startbildschirm auf Englisch) |  |
+en_KAMPF.DAT.png | KAMPF.DAT | Eat and be Eaten |  |
+en_LEBEN.DAT.png | LEBEN.DAT | The War of the Species |  |
