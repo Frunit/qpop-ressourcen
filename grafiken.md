@@ -166,9 +166,9 @@ Die englische Version von Q-Pop hat ein paar Grafiken die nicht in der deutschen
 
 Bild | Quelle | Verwendung | Technische Bemerkung | Änderung ggü. deutscher Version
 -----|--------|------------|----------------------|--------------------------------
-en_QPOP.EXE_ENDTEXT_0xe6a00.png | QPOP.EXE_en | Abspann: Texte/Bilder aus dem Monitor | 6 Bilder; 250x100; ENDTEXT | anderer Text
-en_QPOP.EXE_KIWI_0x163a00.png | QPOP.EXE_en | Intro: Kiwi mit “KiwiGames”-Fahne | 3 Bilder; 200x120; KIWI | anderes Kiwi-Logo
-en_QPOP.EXE_PLANETEN_0x19bc00.png | QPOP.EXE_en | Intro: Fünf Planetoide | 5 Bilder; 100x100; PLANETEN | andere Planeten
-en_QPOP.EXE_SCHIPOP_0x1c6d00.png | QPOP.EXE_en | Intro: “Welcome to Q-POP”-Schild | 4 Bilder; 392x218; SCHIPOP | Schriftzug “Danger...” fehlt
-en_QPOP.EXE_STATION1_0x1f0e00.png | QPOP.EXE_en | Intro: Raumstation | 1 Bild; 300x225; STATION | Völlig andere Raumstation
-en_QPOP.EXE_UFO_0x223b00.png | QPOP.EXE_en | Intro: Ufo mit “P.M. Präsentiert” | 1 Bild; 350x120; UFO | Nicht in deutscher Version vorhanden
+..._ENDTEXT_0xe6a00.png | QPOP.EXE_en | Abspann: Texte/Bilder aus dem Monitor | 6 Bilder; 250x100; ENDTEXT | anderer Text
+..._KIWI_0x163a00.png | QPOP.EXE_en | Intro: Kiwi mit “KiwiGames”-Fahne | 3 Bilder; 200x120; KIWI | anderes Kiwi-Logo
+..._PLANETEN_0x19bc00.png | QPOP.EXE_en | Intro: Fünf Planetoide | 5 Bilder; 100x100; PLANETEN | andere Planeten
+..._SCHIPOP_0x1c6d00.png | QPOP.EXE_en | Intro: “Welcome to Q-POP”-Schild | 4 Bilder; 392x218; SCHIPOP | Schriftzug “Danger...” fehlt
+..._STATION1_0x1f0e00.png | QPOP.EXE_en | Intro: Raumstation | 1 Bild; 300x225; STATION | Völlig andere Raumstation
+..._UFO_0x223b00.png | QPOP.EXE_en | Intro: Ufo mit “P.M. Präsentiert” | 1 Bild; 350x120; UFO | Nicht in deutscher Version vorhanden
