@@ -19,6 +19,7 @@ Das Spiel, sowie seine Grafiken, Sounds und andere Ressourcen unterliegen dem Ur
 - [Sound](sound.md)
 - [Speicherstand](speicherstand.md)
   - [Höhenrelief](relief.md)
+- [Scripte](scripte.md)
 
 
 Magnetic Planet
