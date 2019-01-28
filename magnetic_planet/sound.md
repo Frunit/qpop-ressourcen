@@ -12,14 +12,14 @@ Folgend sind alle Soundeffekte im Ordner `sounds` und ihr Verwendungszweck (sowe
 
 Datei      | Quelle   | Verwendung
 -----------|----------|-----------
-wave01.wav | WAVE.DAT | ???
-wave02.wav | WAVE.DAT | ???
-wave03.wav | WAVE.DAT | ???
-wave04.wav | WAVE.DAT | ???
-wave05.wav | WAVE.DAT | ???
-wave06.wav | WAVE.DAT | ???
-wave07.wav | WAVE.DAT | ???
-wave08.wav | WAVE.DAT | ???
+wave01.wav | WAVE.DAT | Robodog
+wave02.wav | WAVE.DAT | Fressen/Aufnehmen
+wave03.wav | WAVE.DAT | Hydrant
+wave04.wav | WAVE.DAT | Kampf
+wave05.wav | WAVE.DAT | Nachwuchs
+wave06.wav | WAVE.DAT | Kampf auf Strategiekarte
+wave07.wav | WAVE.DAT | Montieren
+wave08.wav | WAVE.DAT | Sieg
 wave09.wav | WAVE.DAT | ???
 
 
