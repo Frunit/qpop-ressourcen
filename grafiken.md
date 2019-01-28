@@ -9,7 +9,7 @@ Mit viel [Python](https://www.python.org)-Scripting ist es mir gelungen, die mei
 
 Alle Grafiken liegen in `grafiken`. Ich habe Multibitmaps zusammengefasst. Außerdem habe ich Hintergründe, die Transparent sein sollten, transparent gemacht. Manche Grafiken haben auch Alpha-Masken (als zweite Grafik). Diese Masken habe ich angewendet, um fertige Bilder mit Transparenz zu erhalten. In all diesen Fällen liegt die Originaldatei (und ihre Maske) in `grafiken/original`.
 
-In der folgenden Tabelle sind alle Grafiken angegeben, die ich extrahieren konnte. Für jede Grafik ist die Quelldatei und die Verwendung im Spiel angegeben. Wenn ein Name unter *Technische Bemerkung* angegeben ist, ist dies der Name der Originaldatei, soweit ich ihn aus `QPOP.EXE` ermitteln konnte.
+In der folgenden Tabelle sind alle Grafiken angegeben, die ich extrahieren konnte. Für jede Grafik ist die Quelldatei und die Verwendung im Spiel angegeben. Wenn ein Name unter *Technische Bemerkung* angegeben ist, ist dies der Name der Originaldatei, soweit ich ihn aus `QPOP.EXE` ermitteln konnte. Die deutsche Version 1.02 ist die Referenz für die Adressen.
 
 Die Tabellen sind auch in [grafiken.csv].
 
@@ -159,3 +159,16 @@ Startadresse | Bildtyp | Originalname | Beschreibung | Fehler
 0x232000 | MBM, 35x49, 8bit, c0 | TUER | Katastrophe: Menschen: Raketenteil | Offset falsch
 0x25fd00 | MBM, 50x147, 8bit, c1 | WELLE | Eine Küste | Der erste Frame ist weiß
 0x2ab300 | DIB, 10x12, 4bit, c0 | Bitmap 975 | ??? | komplett schwarz
+
+
+Die englische Version von Q-Pop hat ein paar Grafiken die nicht in der deutschen Version verwendet wurden, oder verändert wurden.
+
+
+Bild | Quelle | Verwendung | Technische Bemerkung | Änderung ggü. deutscher Version
+-----|--------|------------|----------------------|--------------------------------
+en_QPOP.EXE_ENDTEXT_0xe6a00.png | QPOP.EXE_en | Abspann: Texte/Bilder aus dem Monitor | 6 Bilder; 250x100; ENDTEXT | anderer Text
+en_QPOP.EXE_KIWI_0x163a00.png | QPOP.EXE_en | Intro: Kiwi mit “KiwiGames”-Fahne | 3 Bilder; 200x120; KIWI | anderes Kiwi-Logo
+en_QPOP.EXE_PLANETEN_0x19bc00.png | QPOP.EXE_en | Intro: Fünf Planetoide | 5 Bilder; 100x100; PLANETEN | andere Planeten
+en_QPOP.EXE_SCHIPOP_0x1c6d00.png | QPOP.EXE_en | Intro: “Welcome to Q-POP”-Schild | 4 Bilder; 392x218; SCHIPOP | Schriftzug “Danger...” fehlt
+en_QPOP.EXE_STATION1_0x1f0e00.png | QPOP.EXE_en | Intro: Raumstation | 1 Bild; 300x225; STATION | Völlig andere Raumstation
+en_QPOP.EXE_UFO_0x223b00.png | QPOP.EXE_en | Intro: Ufo mit “P.M. Präsentiert” | 1 Bild; 350x120; UFO | Nicht in deutscher Version vorhanden
