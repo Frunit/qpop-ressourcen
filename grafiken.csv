@@ -84,6 +84,7 @@ QPOP.EXE_0x3d800.png	QPOP.EXE	Intro: Amorph mit Schild “Lars Hammer”	5 Bilde
 QPOP.EXE_0x3ee400.png	QPOP.EXE	Spezies im Kampf in Überlebensphase	448x384	
 QPOP.EXE_0x41300.png	QPOP.EXE	Intro: Amorph mit Schild “Lars Hammer” wird eingesogen	10 Bilder; 130x100; AMOEWEG	
 QPOP.EXE_0x47000.png	QPOP.EXE	Intro: Staub wird eingesaugt	6 Bilder; 70x26; ASCHE	
+QPOP.EXE_0x48d00.png	QPOP.EXE	Intro: Fading-Maske für Übergang zur Planetenoberfläche	3 Bilder; 600x30; BALKEN; eig. 4, aber eines ist schwarz; Frames 2+3 sind unkomprimiert	
 QPOP.EXE_0x54400.png	QPOP.EXE	Intro: Schild “Lars Hammer” kommt aus dem Boden	6 Bilder; 65x70; BOSCHILD	
 QPOP.EXE_0x57000.png	QPOP.EXE	Abspann: Dino geht und hat gefressen	11 Bilder; 64x64; DINO	
 QPOP.EXE_0x5cc00.png	QPOP.EXE	Katastrophe: Kälte: Chuckberry wird eingeschneit	22 Bilder; 64x64; EISFRU	
