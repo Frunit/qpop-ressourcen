@@ -26,8 +26,8 @@ KATASTR.3.png | KATASTR.3 | Katastrophe: Seuche |
 KATASTR.4.png | KATASTR.4 | Katastrophe: Vulkan |
 KATASTR.5.png | KATASTR.5 | Katastrophe: Flut |
 KATASTR.6.png | KATASTR.6 | Katastrophe: Erdbeben |
-KATASTR.7.png | KATASTR.7 | ??? |
-KATASTR.8.png | KATASTR.8 | ??? |
+KATASTR.7.png | KATASTR.7 | Abschlussbildschirm: Gewonnen |
+KATASTR.8.png | KATASTR.8 | Abschlussbildschirm: Verloren |
 LOVEWAR.DAT.png | LOVEWAR.DAT | Wolken (Kampf und Montage) | maskiert
 MEER.DAT.png | MEER.DAT | Übersichtskartenteile | Masken angewendet und etwas neu arrangiert
 feuchtigkeit.png | MPLANET.EXE | GUI: Feuchtigkeitsanzeiger | 2 Bilder; 40x100; selbst zusammengestellt
