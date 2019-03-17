@@ -90,7 +90,7 @@ QPOP.EXE_0x236c00.png | QPOP.EXE | Katastrophe: Menschen: Menschen laufen | 4 Bi
 QPOP.EXE_0x238700_...png | QPOP.EXE | Katastrophe: Vulkan: Vulkan entsteht, bricht aus, raucht | 18 Bilder; 150x120; VULKAN\[\_12\]
 QPOP.EXE_0x257000.png | QPOP.EXE | Katastrophe: Vulkan: Buckcherry fällt | 18 Bilder; 64x64; VULKFRU
 QPOP.EXE_0x2ab700.png | QPOP.EXE | Intro: Sternenhintergrund | 1 Bild; 600x420
-QPOP.EXE_0x2c9500.png | QPOP.EXE | Programmicon | Falsche Höhenangabe; “Icon 1”
+QPOP.EXE_0x2c9500.png | QPOP.EXE | Programmicon | Icon 1
 QPOP.EXE_0x2c9c00.png | QPOP.EXE | Bodenteile Überlebensphase | 640x896
 QPOP.EXE_0x355d00.png | QPOP.EXE | Spezies für Säulen und Punkte | 448x512
 QPOP.EXE_0x38de00.png | QPOP.EXE | Icons und Balken für Mutationsscreen | 600x120
