@@ -154,7 +154,6 @@ Ein paar Grafiken aus `QPOP.EXE` haben bisher Fehler nach dem Extrahieren. Die f
 
 Startadresse | Bildtyp | Originalname | Beschreibung | Fehler
 -------------|---------|--------------|--------------|-------
-0x48e00 | MBM, 600x30, 8bit, c1 | BALKEN | Intro: Fading-Maske für Übergang zur Planetenoberfläche | Drei Frames fehlen
 0x109500 | MBM, 31x31, 8bit, c1 | SONNE | Katastrophe: Dürre: Sonne | Nur ein Frame vorhanden, Rest gelb
 0x1e2b00 | MBM, 32x32, 8bit, c1 | HAI4 | Katastrophe: Seuche: Pesciodyphus wird Krank *klein* | Letzter Frame fehlt
 0x232000 | MBM, 35x49, 8bit, c0 | TUER | Katastrophe: Menschen: Raketenteil | Offset falsch
