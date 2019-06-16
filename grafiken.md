@@ -5,7 +5,7 @@ Die Grafiken in Q-Pop sind verteilt über viele Dateien. Die meisten sind in der
 
 Alle Grafiken sind Windows Bitmaps in einer oder anderer Form. Ich habe den Aufbau einer Bitmap in [bitmap.md] zusammengefasst. Manche Bitmaps fehlt der Bitmap-Header, was sie zu *device-independent bitmaps* (DIB) macht. Manche sind unkomprimiert, manche sind lauflängenkodiert (*run-length encoded*, RLE). Es gibt Bitmaps mit 1, 4 oder 8 bit pro Pixel. Grafiken, die im Intro, Abspann oder in Katastrophenanimationen verwendet werden, sind in einem speziellen Format gespeichert, wo sich viele Bilder einen Header und eine Palette teilen. Diese Bilder wurden mit [Take One](http://www.take1.de) zu Animationen zusammengefasst. Take One ist heutzutage kostenlos verfügbar. Damit es nicht zu langweilig wird, gibt es auch noch ein paar Bilder, die keine eigene Palette haben.
 
-Mit viel [Python](https://www.python.org)-Scripting ist es mir gelungen, die meisten Grafiken zu extrahieren.
+Mit viel [Python](https://www.python.org)-Scripting ist es mir gelungen, die meisten Grafiken zu extrahieren. Vier Grafiken konnte ich nur mit Hilfe von Take1 in ein gängiges Format umwandeln.
 
 Alle Grafiken liegen in `grafiken`. Ich habe Multibitmaps zusammengefasst. Außerdem habe ich Hintergründe, die Transparent sein sollten, transparent gemacht. Manche Grafiken haben auch Alpha-Masken (als zweite Grafik). Diese Masken habe ich angewendet, um fertige Bilder mit Transparenz zu erhalten. In all diesen Fällen liegt die Originaldatei (und ihre Maske) in `grafiken/original`.
 
@@ -41,6 +41,7 @@ kalender.png | QPOP.EXE | GUI: Kalender | 2 Bilder; 60x44; selbst zusammengestel
 minimap.png | QPOP.EXE | GUI: Minimapicons | 5 Bilder; 8x8; selbst zusammengestellt
 plus_minus_buttons.png | QPOP.EXE | GUI: Buttons plus/minus | 4 Bilder; 16x16; selbst zusammengestellt
 pointer.png | QPOP.EXE | Mauszeiger | 1 Bild; 32x32; cursor file
+QPOP.EXE_0x109500.png | QPOP.EXE | Katastrophe: Dürre: Sonne | 7 Bilder; 31x31; SONNE
 QPOP.EXE_0x10a900.png | QPOP.EXE | Katastrophe: Dürre: Sonne | 5 Bilder; 70x70; SONNE2
 QPOP.EXE_0x10bf00.png | QPOP.EXE | Intro: Raumschiff “Charles Darwin” | 1 Bild; 300x225; STATION2
 QPOP.EXE_0x10f200.png | QPOP.EXE | Intro: Wolken “Karl L. von Wendt” | 7 Bilder; 105x71; STAUB
@@ -65,6 +66,7 @@ QPOP.EXE_0x1b9500.png | QPOP.EXE | Abspann: Purplus in Rakete | 4 Bilder; 235x11
 QPOP.EXE_0x1c2500.png | QPOP.EXE | Katastrophe: Vulkan: Feuergras verschwindet | 4 Bilder; 30x19; GRAS
 QPOP.EXE_0x1c2e00_...png | QPOP.EXE | Katastrophe: Seuche: Pesciodyphus wird Krank groß | 18 Bilder; 124x117; HAI\[12\]
 QPOP.EXE_0x1db400.png | QPOP.EXE | Katastrophe: Seuche: Pesciodyphus wird Krank mittelgroß | 16 Bilder; 64x64; HAI3
+QPOP.EXE_0x1e2b00.png | QPOP.EXE | Katastrophe: Seuche: Pesciodyphus wird Krank klein | 14 Bilder; 32x32; HAI4
 QPOP.EXE_0x1e5400.png | QPOP.EXE | Abspann: Polizeirakete | 1 Bild; 250x150; HUNTER
 QPOP.EXE_0x1e8a00.png | QPOP.EXE | Katastrophe: Vulkan: Explosion | 9 Bilder; 50x50; KNALL
 QPOP.EXE_0x1eaf00.png | QPOP.EXE | Katastrophe: Flut: Baumwipfel | 1 Bild; 77x76; KRONE
@@ -86,9 +88,11 @@ QPOP.EXE_0x223800.png | QPOP.EXE | Abspann: Speeder mit Purplus | 4 Bilder; 110x
 QPOP.EXE_0x225100.png | QPOP.EXE | Katastrophe: Seuche: Seuche infiziert | 3 Bilder; 47x32; SEUVIEH
 QPOP.EXE_0x225f00.png | QPOP.EXE | Katastrophe: Mutation: Meteorit wechselt die Farbe | 4 Bilder; 120x120; SPUTNIK
 QPOP.EXE_0x22f800.png | QPOP.EXE | Abspann: Steinstatuen der Spezies | 6 Bilder; 70x70; STATUEN
+QPOP.EXE_0x232000.png | QPOP.EXE | Katastrophe: Menschen: Raketentür | 8 Bilder; 35x49; TUER
 QPOP.EXE_0x236c00.png | QPOP.EXE | Katastrophe: Menschen: Menschen laufen | 4 Bilder; 64x64; TYP
 QPOP.EXE_0x238700_...png | QPOP.EXE | Katastrophe: Vulkan: Vulkan entsteht, bricht aus, raucht | 18 Bilder; 150x120; VULKAN\[\_12\]
 QPOP.EXE_0x257000.png | QPOP.EXE | Katastrophe: Vulkan: Buckcherry fällt | 18 Bilder; 64x64; VULKFRU
+QPOP.EXE_0x25fd00.png | QPOP.EXE | Katastrophe: Flut: Die Flutwelle | 3 Bilder; 50x147; WELLE; Erster Frame ist weiß
 QPOP.EXE_0x2ab700.png | QPOP.EXE | Intro: Sternenhintergrund | 1 Bild; 600x420
 QPOP.EXE_0x2c9500.png | QPOP.EXE | Programmicon | Icon 1
 QPOP.EXE_0x2c9c00.png | QPOP.EXE | Bodenteile Überlebensphase | 640x896
@@ -147,18 +151,6 @@ SPECIES.4.png | SPECIES.4 | Isnobug in Überlebensphase | maskiert mit SPECIES.0
 SPECIES.5.png | SPECIES.5 | Amorph in Überlebensphase | maskiert mit SPECIES.0
 SPECIES.6.png | SPECIES.6 | Buckcherry in Überlebensphase | maskiert mit SPECIES.0
 STAND.DAT.png | STAND.DAT | Bewertungsphase und Icons für Dialogfenster | Maskiert mit Maske aus QPOP.EXE
-
-
-Ein paar Grafiken aus `QPOP.EXE` haben bisher Fehler nach dem Extrahieren. Die folgenden Grafiken fehlen daher in der Sammlung.
-
-
-Startadresse | Bildtyp | Originalname | Beschreibung | Fehler
--------------|---------|--------------|--------------|-------
-0x109500 | MBM, 31x31, 8bit, c1 | SONNE | Katastrophe: Dürre: Sonne | Nur ein Frame vorhanden, Rest gelb
-0x1e2b00 | MBM, 32x32, 8bit, c1 | HAI4 | Katastrophe: Seuche: Pesciodyphus wird Krank *klein* | Letzter Frame fehlt
-0x232000 | MBM, 35x49, 8bit, c0 | TUER | Katastrophe: Menschen: Raketenteil | Offset falsch
-0x25fd00 | MBM, 50x147, 8bit, c1 | WELLE | Eine Küste | Der erste Frame ist weiß
-0x2ab300 | DIB, 10x12, 4bit, c0 | Bitmap 975 | ??? | komplett schwarz
 
 
 Die englische Version von Q-Pop hat ein paar Grafiken die nicht in der deutschen Version verwendet wurden, oder verändert wurden.

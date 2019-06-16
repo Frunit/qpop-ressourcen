@@ -24,6 +24,7 @@ kalender.png	QPOP.EXE	GUI: Kalender	2 Bilder; 60x44; selbst zusammengestellt
 minimap.png	QPOP.EXE	GUI: Minimapicons	5 Bilder; 8x8; selbst zusammengestellt	
 plus_minus_buttons.png	QPOP.EXE	GUI: Buttons plus/minus	4 Bilder; 16x16; selbst zusammengestellt	
 pointer.png	QPOP.EXE	Mauszeiger	1 Bild; 32x32; cursor file	
+QPOP.EXE_0x109500.png	QPOP.EXE	Katastrophe: Dürre: Sonne	7 Bilder; 31x31; SONNE	
 QPOP.EXE_0x10a900.png	QPOP.EXE	Katastrophe: Dürre: Sonne	5 Bilder; 70x70; SONNE2	
 QPOP.EXE_0x10bf00.png	QPOP.EXE	Intro: Raumschiff “Charles Darwin”	1 Bild; 300x225; STATION2	
 QPOP.EXE_0x10f200.png	QPOP.EXE	Intro: Wolken “Karl L. von Wendt”	7 Bilder; 105x71; STAUB	
@@ -48,6 +49,7 @@ QPOP.EXE_0x1b9500.png	QPOP.EXE	Abspann: Purplus in Rakete	4 Bilder; 235x119; FLU
 QPOP.EXE_0x1c2500.png	QPOP.EXE	Katastrophe: Vulkan: Feuergras verschwindet	4 Bilder; 30x19; GRAS	
 QPOP.EXE_0x1c2e00_0x1cf400.png	QPOP.EXE	Katastrophe: Seuche: Pesciodyphus wird Krank groß	18 Bilder; 124x117; HAI[12]	
 QPOP.EXE_0x1db400.png	QPOP.EXE	Katastrophe: Seuche: Pesciodyphus wird Krank mittelgroß	16 Bilder; 64x64; HAI3	
+QPOP.EXE_0x1e2b00.png	QPOP.EXE	Katastrophe: Seuche: Pesciodyphus wird Krank klein	14 Bilder; 32x32; HAI4	
 QPOP.EXE_0x1e5400.png	QPOP.EXE	Abspann: Polizeirakete	1 Bild; 250x150; HUNTER	
 QPOP.EXE_0x1e8a00.png	QPOP.EXE	Katastrophe: Vulkan: Explosion	9 Bilder; 50x50; KNALL	
 QPOP.EXE_0x1eaf00.png	QPOP.EXE	Katastrophe: Flut: Baumwipfel	1 Bild; 77x76; KRONE	
@@ -69,9 +71,11 @@ QPOP.EXE_0x223800.png	QPOP.EXE	Abspann: Speeder mit Purplus	4 Bilder; 110x30; SC
 QPOP.EXE_0x225100.png	QPOP.EXE	Katastrophe: Seuche: Seuche infiziert	3 Bilder; 47x32; SEUVIEH	
 QPOP.EXE_0x225f00.png	QPOP.EXE	Katastrophe: Mutation: Meteorit wechselt die Farbe	4 Bilder; 120x120; SPUTNIK	
 QPOP.EXE_0x22f800.png	QPOP.EXE	Abspann: Steinstatuen der Spezies	6 Bilder; 70x70; STATUEN	
+QPOP.EXE_0x232000.png	QPOP.EXE	Katastrophe: Menschen: Raketentür	8 Bilder; 35x49; TUER	
 QPOP.EXE_0x236c00.png	QPOP.EXE	Katastrophe: Menschen: Menschen laufen	4 Bilder; 64x64; TYP	
 QPOP.EXE_0x238700_0x240f00_0x24d700.png	QPOP.EXE	Katastrophe: Vulkan: Vulkan entsteht, bricht aus, raucht	18 Bilder; 150x120; VULKAN[_12]	
 QPOP.EXE_0x257000.png	QPOP.EXE	Katastrophe: Vulkan: Buckcherry fällt	18 Bilder; 64x64; VULKFRU	
+QPOP.EXE_0x25fd00.png	QPOP.EXE	Katastrophe: Flut: Die Flutwelle	3 Bilder; 50x147; WELLE; Erster Frame ist weiß	
 QPOP.EXE_0x2ab700.png	QPOP.EXE	Intro: Sternenhintergrund	1 Bild; 600x420	
 QPOP.EXE_0x2c9500.png	QPOP.EXE	Programmicon	Icon 1	
 QPOP.EXE_0x2c9c00.png	QPOP.EXE	Bodenteile Überlebensphase	640x896	
