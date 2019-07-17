@@ -14,20 +14,20 @@ Folgend sind alle Soundeffekte im Ordner `sounds` und ihr Verwendungszweck (sowe
 Datei      | Quelle   | Verwendung
 -----------|----------|-----------
 wave01.wav | WAVE.DAT | Dinosaurier gewinnt
-wave02.wav | WAVE.DAT | Dinosaurier weint (hat verloren)
-wave03.wav | WAVE.DAT | Pfütze blubbert (Überlebenskarte)
-wave04.wav | WAVE.DAT | Vulkan blubbert (Überlebenskarte)
-wave05.wav | WAVE.DAT | Kampf in Überlebensrunde
+wave02.wav | WAVE.DAT | Dinosaurier weint
+wave03.wav | WAVE.DAT | Sumpf blubbert (Überlebensrunde)
+wave04.wav | WAVE.DAT | Vulkan blubbert (Überlebensrunde)
+wave05.wav | WAVE.DAT | Kampf in Überlebensrunde (abgeschnitten nach etwa 3,65 Sekunden)
 wave06.wav | WAVE.DAT | Mensch gewinnt
 wave07.wav | WAVE.DAT | Pilz gewinnt
-wave08.wav | WAVE.DAT | Weltraumbasis (Überlebenskarte)
-wave09.wav | WAVE.DAT | Fressen
+wave08.wav | WAVE.DAT | Weltraumbasis (Überlebenserunde)
+wave09.wav | WAVE.DAT | Fressen (außer Kiwioperyx und Chuck Berry)
 wave10.wav | WAVE.DAT | Fressen Chuck Berry
 wave11.wav | WAVE.DAT | Fressen Kiwiopteryx
 wave12.wav | WAVE.DAT | Paarung
 wave13.wav | WAVE.DAT | Elektroschlange
-wave14.wav | WAVE.DAT | ???
-wave15.wav | WAVE.DAT | Erbrechen (nach grünem Hirn)
+wave14.wav | WAVE.DAT | Spieler versinkt im Treibsand
+wave15.wav | WAVE.DAT | Erbrechen (außer Chuck Berry)
 wave16.wav | WAVE.DAT | Kampf in Weltkarte
 wave17.wav | WAVE.DAT | Weibchen Purplus
 wave18.wav | WAVE.DAT | Weibchen Kiwiopteryx
@@ -39,11 +39,17 @@ wave23.wav | WAVE.DAT | Jungtier Kiwiopteryx
 wave24.wav | WAVE.DAT | Jungtier Pesciodyphus
 wave25.wav | WAVE.DAT | Jungtier Amorph
 wave26.wav | WAVE.DAT | Jungtier Chuck Berry
-wave27.wav | WAVE.DAT | Purplus gewinnt
+wave27.wav | WAVE.DAT | Spieler gewinnt (außer Kiwiopteryx und Pesciodyphus)
 wave28.wav | WAVE.DAT | Kiwiopteryx gewinnt
 wave29.wav | WAVE.DAT | Pesciodyphus gewinnt
 wave30.wav | WAVE.DAT | Kraftfutter gefressen
 wave31.wav | WAVE.DAT | Erbrechen Chuck Berry
+
+
+
+Umgebungssoundeffekte in der Überlebensphase werden gespielt, wenn das entsprechende Feld zwei Felder oder weniger von der Spielfigur entfernt ist.
+
+Weibchen und Nachwuchs von Isnobug machen als einzige keine Geräusche.
 
 
 
