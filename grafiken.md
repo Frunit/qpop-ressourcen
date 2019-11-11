@@ -11,7 +11,7 @@ Alle Grafiken liegen in `grafiken`. Ich habe Multibitmaps zusammengefasst. Auße
 
 In der folgenden Tabelle sind alle Grafiken angegeben, die ich extrahieren konnte. Für jede Grafik ist die Quelldatei und die Verwendung im Spiel angegeben. Wenn ein Name unter *Technische Bemerkung* angegeben ist, ist dies der Name der Originaldatei, soweit ich ihn aus `QPOP.EXE` ermitteln konnte. Die deutsche Version 1.02 ist die Referenz für die Adressen.
 
-Die Tabellen sind auch in [grafiken.csv].
+Die Tabellen sind auch in [grafiken.csv](grafiken.csv).
 
 
 Bild | Quelle | Verwendung | Technische Bemerkung

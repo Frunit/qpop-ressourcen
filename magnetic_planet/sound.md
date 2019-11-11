@@ -1,7 +1,7 @@
 Magnetic Planet Soundeffekte und Hintergrundmusik
 =================================================
 
-Die Tabelle ist auch in [sound.csv].
+Die Tabelle ist auch in [sound.csv](sound.csv).
 
 Soundeffekte
 ------------

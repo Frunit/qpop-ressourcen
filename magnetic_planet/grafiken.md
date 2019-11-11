@@ -5,11 +5,11 @@ Die Grafiken in Magnetic Planet sind verteilt über viele Dateien. Die meisten s
 
 Alle Grafiken sind Windows Bitmaps oder *device-independent* Bitmaps. Die Bilder, die als eigene Dateien vorliegen, also nicht in `MPLANET.EXE`, sind komprimiert. Man kann sie mit dem Programm `c:\windows\expand.exe` (zumindest in Windows 3.11) entpacken.
 
-Alle Grafiken liegen in `grafiken`. Ich habe Animationen zusammengefasst. Außerdem habe ich Hintergründe, die Transparent sein sollten, transparent gemacht. Die Originaldateien (und ggf. ihre Masken) liegen in `grafiken/original`.
+Alle Grafiken liegen in `grafiken`. Ich habe Animationsframes zusammengefasst. Außerdem habe ich Hintergründe, die Transparent sein sollten, transparent gemacht. Die Originaldateien (und ggf. ihre Masken) liegen in `grafiken/original`.
 
 In der folgenden Tabelle sind alle im Spiel enthaltenen Grafiken angegeben. Für jede Grafik ist die Quelldatei und die Verwendung im Spiel angegeben. Wenn ein Name unter *Technische Bemerkung* angegeben ist, ist dies der Name der Originaldatei, soweit ich ihn aus `MPLANET.EXE` ermitteln konnte.
 
-Die Tabelle ist auch in [grafiken.csv].
+Die Tabelle ist auch in [grafiken.csv](grafiken.csv).
 
 
 Bild | Quelle | Verwendung | Technische Bemerkung

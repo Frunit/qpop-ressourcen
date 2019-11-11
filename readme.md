@@ -5,9 +5,9 @@ Q-POP Ressourcen
 
 In dem Spiel Q-POP von 1995 (von Wendt Konzept GmbH) geht es darum, einer Spezies auf einem fremden Planeten bei der Evolution zu helfen. Mehr Informationen zum Spiel gibt es bei [frunit.de/qpop](https://www.frunit.de/qpop) und im [Q-POP Wikia](https://qpop.fandom.com/de).
 
-Ich habe versucht, alle Ressourcen aus Q-POP zusammenzustellen. Das sind zu aller erst Grafiken, Hintergrundmusik und Soundeffekte. Es sollte auch möglich sein, die Animationspfade des Intros, Abspanns und der Katastrophen zu extrahieren.
+Ich habe versucht, alle Ressourcen aus Q-POP zusammenzustellen. Das sind zu aller erst Grafiken, Hintergrundmusik und Soundeffekte. Es ist auch möglich, die Animationspfade des Intros, Abspanns und der Katastrophen zu extrahieren.
 
-Der Quelltext scheint nicht mehr zu existieren. Sollte noch jemand den Quelltext (oder auch Teile davon) haben, würde ich mich sehr darüber freuen.
+Der Quelltext scheint nicht mehr zu existieren. Sollte noch jemand den Quelltext (oder auch Teile davon) haben, würde ich mich sehr darüber freuen!
 
 Wenn du Details zu Q-POP, seinen Spielmechanismen oder den Dateien hast, melde dich gerne! Jegliche Mitarbeit ist gerne gesehen.
 

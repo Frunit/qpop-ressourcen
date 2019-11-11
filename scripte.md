@@ -11,6 +11,11 @@ Außerdem habe ich vieles mit dem Disassembler [Semblance](https://github.com/zf
 Extrahiert alle Wave-Dateien aus einer Datei, die aus vielen Wave-Dateien besteht.
 
 
+### animation_reader.py
+
+Liest alle Animationen in einer Datei und gibt detailierte Informationen über sie aus.
+
+
 ### average_maps.py
 
 Liest Höhenreliefs aus Q-Pop-Speicherständen und generiert ein Bild mit drei Panelen:

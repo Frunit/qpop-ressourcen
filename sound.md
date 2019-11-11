@@ -1,7 +1,7 @@
 Q-POP Soundeffekte und Hintergrundmusik
 =======================================
 
-Die Tabellen sind auch in [sound.csv].
+Die Tabellen sind auch in [sound.csv](sound.csv).
 
 Soundeffekte
 ------------
