@@ -25,6 +25,12 @@ def short_hex(b):
 	return ' '.join(f'{white}{char:02X}{end}' if char == 0 else format(char, '02X') for char in b)
 
 
+def to_string(b):
+	'''Return given bytes array as ASCII string'''
+
+	return ''.join([chr(i) for i in b])
+
+
 def header(raw, offset):
 	'''
 	Read and print all header information in the raw data, starting with
@@ -120,7 +126,7 @@ def blocks(raw, offset, num_animations, images):
 		title = fragment[0].decode('ascii')
 		sub_title = fragment[1]
 		if sub_title:
-			sub_title = '{}{}{}'.format(red, short_hex(sub_title), end)
+			sub_title = '{}{}{} → "{}"'.format(red, short_hex(sub_title), end, to_string(sub_title))
 		else:
 			sub_title = ''
 
@@ -146,11 +152,9 @@ def blocks(raw, offset, num_animations, images):
 			x_abs = '!' if 0x80 & flags else ''
 			y_abs = '!' if 0x40 & flags else ''
 			fixate = ' Fix' if 0x20 & flags else ''
-			ende = f' {red}ENDE{end}' if 0x10 & flags else ''
+			ende = f' {red}ENDE{end}' if 0x10 & flags or 0x04 & flags else ''
 			pause = ' Pause' if 0x08 & flags else ''
 
-			if 0x04 & flags:
-				print(f'{red}Unbekannter Flag: 0x04{end}')
 			assert 0x02 & flags == 0
 			assert 0x01 & flags == 0
 
