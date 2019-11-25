@@ -59,16 +59,16 @@ Die Palette wird mit 00 aufgefüllt, bis die Adresse auf 0 endet.
 BX-Header
 ---------
 
-Dieser Header ist nur in Bildern, die in Take1-Animationen sind, vorhanden. Er ist 20 * anzahl_der_grafiken Bytes groß. Für jede Grafik ist der Header wie folgt:
+Dieser Header ist nur in Multibitmaps vorhanden. Diese Dateien werden in Take1-Animationen verwendet. Er ist 20 * anzahl_der_grafiken Bytes groß. Für jede Grafik ist der Header wie folgt:
 
 Adresse | Länge (Byte) | Beschreibung
 --------|--------------|-------------
 0x0  |  1 | Immer 0x00
-0x1  |  2 | **Unbekannt**. Anzahl der Bytes für dieses Bild? Könnten natürlich auch zwei einzelne Bytes sein.
+0x1  |  2 | Anzahl der Bytes für dieses Bild
 0x3  |  2 | Immer 0x00 0x00
 0x5  | 10 | Der String "BILD%D.BMP"
 0xf  |  3 | immer 0x00 0x00 0x00
-0x12 |  1 | Entweder 0, 1 oder 2. 1 Kommt mit Abstand am häufigsten vor. Zweck **unbekannt**.
+0x12 |  1 | **Unbekannt.** Entweder 0, 1 oder 2. 1 Kommt mit Abstand am häufigsten vor.
 0x13 |  1 | Immer 0x00
 
 
